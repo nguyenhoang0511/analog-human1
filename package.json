@@ -1,0 +1,29 @@
+{
+  "name": "helersummathd",
+  "version": "1.0.2",
+  "description": "my package",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.4",
+    "helertheme": "^1.0.0",
+    "heler-vector-core": "^1.0.0",
+    "heler-big-factorial": "^1.0.0",
+    "helersummathd": "^1.0.0",
+    "mysumd": "^1.0.0",
+    "project-tea-core-math2": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helerhoang/helersummathd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helerhoang/helersummathd/issues"
+  },
+  "homepage": "https://github.com/helerhoang/helersummathd#readme",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "helerhoang",
+  "license": "ISC"
+}
